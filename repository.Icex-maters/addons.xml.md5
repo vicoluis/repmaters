@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.Icex-maters" name="Icex-maters Media" version="1.2" provider-name="Icex-maters Media">
+	<extension point="xbmc.addon.repository" name="Icex-maters Media">
+	<dir>
+		<info compressed="false">https://raw.githubusercontent.com/vicoluis/repmaters/master/repository.Icex-maters/addon.xml</info>
+		<checksum>https://raw.githubusercontent.com/vicoluis/repmaters/master/repository.Icex-maters/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/vicoluis/repmaters/master/repository.Icex-maters/</datadir>
+		</dir>
+	
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Instala canales desde el Repositorio Icex-maters</summary>
+		<description>Preguntass o problemas en nuestro grupo de facebook o nuestro blog https://icexmovieaddon.blogspot.com/</description>
+		<platform>all</platform>
+	</extension>
+</addon>
